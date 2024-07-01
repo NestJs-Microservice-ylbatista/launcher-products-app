@@ -1,0 +1,9 @@
+[submodule "products-ms"]
+	path = products-ms
+	url = https://github.com/NestJs-Microservice-ylbatista/products-ms.git
+[submodule "client-gateway"]
+	path = client-gateway
+	url = https://github.com/NestJs-Microservice-ylbatista/client-gateway.git
+[submodule "orders-ms"]
+	path = orders-ms
+	url = https://github.com/NestJs-Microservice-ylbatista/orders-ms.git
